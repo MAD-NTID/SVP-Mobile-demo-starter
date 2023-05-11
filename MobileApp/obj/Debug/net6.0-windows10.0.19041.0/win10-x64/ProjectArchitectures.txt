@@ -1,0 +1,1 @@
+C:\Users\cyber\source\repos\MobileApp\MobileApp\MobileApp.csproj;x64
