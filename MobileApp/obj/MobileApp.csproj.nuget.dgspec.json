@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cyber\\source\\repos\\MobileApp\\MobileApp\\MobileApp.csproj": {}
+    "C:\\Users\\cyber\\Desktop\\ics\\SVP-Mobile-demo-starter\\MobileApp\\MobileApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cyber\\source\\repos\\MobileApp\\MobileApp\\MobileApp.csproj": {
+    "C:\\Users\\cyber\\Desktop\\ics\\SVP-Mobile-demo-starter\\MobileApp\\MobileApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cyber\\source\\repos\\MobileApp\\MobileApp\\MobileApp.csproj",
+        "projectUniqueName": "C:\\Users\\cyber\\Desktop\\ics\\SVP-Mobile-demo-starter\\MobileApp\\MobileApp.csproj",
         "projectName": "MobileApp",
-        "projectPath": "C:\\Users\\cyber\\source\\repos\\MobileApp\\MobileApp\\MobileApp.csproj",
+        "projectPath": "C:\\Users\\cyber\\Desktop\\ics\\SVP-Mobile-demo-starter\\MobileApp\\MobileApp.csproj",
         "packagesPath": "C:\\Users\\cyber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cyber\\source\\repos\\MobileApp\\MobileApp\\obj\\",
+        "outputPath": "C:\\Users\\cyber\\Desktop\\ics\\SVP-Mobile-demo-starter\\MobileApp\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

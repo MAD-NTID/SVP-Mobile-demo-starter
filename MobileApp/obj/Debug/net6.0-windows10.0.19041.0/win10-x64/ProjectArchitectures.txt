@@ -1,1 +1,1 @@
-C:\Users\cyber\source\repos\MobileApp\MobileApp\MobileApp.csproj;x64
+C:\Users\cyber\Desktop\ics\SVP-Mobile-demo-starter\MobileApp\MobileApp.csproj;x64

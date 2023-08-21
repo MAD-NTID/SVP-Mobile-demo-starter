@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AASNS5PblwBW91VDgcGdJuLb3xIHRVgYKwhfiz9TAEC1EmOO+mpidYb6hYRzSuZimcbUOAlIy/MHkeyIALSsZQ==",
+  "dgSpecHash": "9IoDRgM3QrBLGvOZa60A+eJyXH56pZFEwa4TS+XrURel0+m8ACFaehueR/ILn52FOkC/mcvnhaXKpQWzOPGzIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cyber\\source\\repos\\MobileApp\\MobileApp\\MobileApp.csproj",
+  "projectFilePath": "C:\\Users\\cyber\\Desktop\\ics\\SVP-Mobile-demo-starter\\MobileApp\\MobileApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cyber\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\cyber\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
